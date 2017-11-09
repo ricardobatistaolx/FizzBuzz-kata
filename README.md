@@ -18,7 +18,7 @@ So of course in order to avoid embarrassment in front of your whole class, you h
 so you know what to say. Your class has about 33 pupils and he might go round three times before the bell rings
 for breaktime.
 
-Next maths lesson is on Thursday. Get coding!
+Next maths lesson is on Wednesday. Get coding!
 
 
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number
